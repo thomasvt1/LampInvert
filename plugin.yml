@@ -1,0 +1,5 @@
+name: LampInvert
+main: me.thomasvt.lampinvert.LampInvert
+version: 1
+description: Makes daylight detector useful with redstone lamps
+authors: [thomasvt, wiigor]
